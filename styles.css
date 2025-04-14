@@ -1,0 +1,38 @@
+#container {
+    margin-top: 20px;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin-top: 10px;
+  }
+  form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  body.color-one {
+    background-color: #f0f8ff; /* AliceBlue */
+  }
+  
+  body.color-two {
+    background-color: #ffe4e1; /* MistyRose */
+  }
+  
+  body.color-three {
+    background-color: #fdfd96; /* Light Yellow */
+  }
+  
+  body.color-four {
+    background-color: #e0ffe0; /* Light Green */
+  }
+  
